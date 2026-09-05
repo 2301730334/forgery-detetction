@@ -1,0 +1,11 @@
+numpy
+opencv-python-headless
+Pillow
+scikit-image
+matplotlib
+torch
+torchvision
+mlflow
+fastapi
+uvicorn[standard]
+python-multipart

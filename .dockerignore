@@ -1,0 +1,10 @@
+.git
+__pycache__
+*.pyc
+data/
+notebooks/
+tests/
+mlflow.db
+*.zip
+.gitignore
+README.md
